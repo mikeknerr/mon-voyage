@@ -1,0 +1,8 @@
+.RecsList {
+  grid-area: recs;
+  overflow: scroll;
+  border: 2px solid #010c3f;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+}

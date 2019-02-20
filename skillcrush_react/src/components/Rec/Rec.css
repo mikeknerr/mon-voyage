@@ -1,0 +1,13 @@
+.Rec {
+  min-width: 75%;
+  padding: 5%;
+  border-top: 1px solid #010c3f;
+}
+
+
+
+.subhead {
+  display: flex;
+  min-width: 75%;
+  justify-content: space-evenly;
+}
